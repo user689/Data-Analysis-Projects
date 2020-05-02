@@ -1,3 +1,9 @@
+In this project we explore the Covid-19 response in several countries to get some insight into prevention and containment measures.
+
+Main reports:
+
+- exploratory_analysis.html: a file showing how we explored data until reaching conclusions.
+- slide_deck.slides: a quick presentation showing the main findings.
 
 ### Datasets included:
 

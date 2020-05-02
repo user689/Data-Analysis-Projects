@@ -58,21 +58,21 @@ We saw how Lebanon compared with other countries. It is performing well in gener
 ## Resources
 
 ### dataset resources:
-- [containment dataset][1]
-- [Covid-19 dataset][2]
-- [WHO dataset source][3]
-- [Lebanese Covid Dataset][4]
-- [Population  by Countrt dataset][5]
+- [containment dataset][6]
+- [Covid-19 dataset][7]
+- [WHO dataset source][8]
+- [Lebanese Covid Dataset][9]
+- [Population  by Countrt dataset][10]
 
 ### Others
-- [Concat column to list][6]
-- [Using WordCloud][7]
-- [How to know if we are beating Coronavirus- video][8]
-[1]:https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
-[2]:https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-[3]:https://www.who.int/emergencies/diseases/novel-coronavirus-2019
-[4]:http://corona.ministryinfo.gov.lb/
-[5]:https://www.kaggle.com/tanuprabhu/population-by-country-2020
-[6]:https://stackoverflow.com/a/53463151/4145941
-[7]:https://www.datacamp.com/community/tutorials/wordcloud-python
-[8]:https://youtu.be/54XLXg4fYsc
+- [Concat column to list][11]
+- [Using WordCloud][12]
+- [How to know if we are beating Coronavirus- video][13]
+[6]:https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
+[7]:https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+[8]:https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+[9]:http://corona.ministryinfo.gov.lb/
+[10]:https://www.kaggle.com/tanuprabhu/population-by-country-2020
+[11]:https://stackoverflow.com/a/53463151/4145941
+[12]:https://www.datacamp.com/community/tutorials/wordcloud-python
+[13]:https://youtu.be/54XLXg4fYsc

@@ -59,11 +59,11 @@ We saw how Lebanon compared with other countries. It is performing well in gener
 
 ## Resources
 
-https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
-https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019
-http://corona.ministryinfo.gov.lb/
-https://www.kaggle.com/tanuprabhu/population-by-country-2020
-https://stackoverflow.com/a/53463151/4145941
-https://www.datacamp.com/community/tutorials/wordcloud-python
-https://youtu.be/54XLXg4fYsc
+- https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
+- https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+- https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+- http://corona.ministryinfo.gov.lb/
+- https://www.kaggle.com/tanuprabhu/population-by-country-2020
+- https://stackoverflow.com/a/53463151/4145941
+- https://www.datacamp.com/community/tutorials/wordcloud-python
+- https://youtu.be/54XLXg4fYsc

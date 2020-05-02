@@ -1,4 +1,4 @@
-This report investigates a dataset of 100k medical appointments in Brazil: [no-show-appointment](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv&sa=D&ust=1579452823958000). 
+This report investigates a dataset of 100k medical appointments in Brazil: [no-show-appointment](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv). 
 The dataset is focused on the question of whether patients show up to their appointments according to different factors. Some of the factors to take into account:
 
 - 'ScheduledDay’ tells us on what day the patient set up their appointment.

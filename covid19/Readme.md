@@ -29,6 +29,8 @@ Main reports:
 - **[Country population and other data][5]:** Collected from a kaggle dataset. Only specific columns like population and median age are useful to compare countrie.
   
 - **Data Specific to Country (Lebanon):** Since I am from Lebanon, I am interested in how this country compares to other countries. Most of the required data is available in the 2nd database. However, additional data was obtained manually from local and [government websites][4].
+
+
 [1]:https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
 [2]:https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 [3]:https://www.who.int/emergencies/diseases/novel-coronavirus-2019
@@ -57,22 +59,11 @@ We saw how Lebanon compared with other countries. It is performing well in gener
 
 ## Resources
 
-### dataset resources:
-- [containment dataset][6]
-- [Covid-19 dataset][7]
-- [WHO dataset source][8]
-- [Lebanese Covid Dataset][9]
-- [Population  by Countrt dataset][10]
-
-### Others
-- [Concat column to list][11]
-- [Using WordCloud][12]
-- [How to know if we are beating Coronavirus- video][13]
-[6]:https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
-[7]:https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-[8]:https://www.who.int/emergencies/diseases/novel-coronavirus-2019
-[9]:http://corona.ministryinfo.gov.lb/
-[10]:https://www.kaggle.com/tanuprabhu/population-by-country-2020
-[11]:https://stackoverflow.com/a/53463151/4145941
-[12]:https://www.datacamp.com/community/tutorials/wordcloud-python
-[13]:https://youtu.be/54XLXg4fYsc
+https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+http://corona.ministryinfo.gov.lb/
+https://www.kaggle.com/tanuprabhu/population-by-country-2020
+https://stackoverflow.com/a/53463151/4145941
+https://www.datacamp.com/community/tutorials/wordcloud-python
+https://youtu.be/54XLXg4fYsc
